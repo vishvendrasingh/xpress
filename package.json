@@ -12,8 +12,8 @@
     "http-errors": "~1.6.3",
     "jsonwebtoken": "^8.5.1",
     "morgan": "~1.9.1",
-    "pug": "2.0.0-beta11",
     "mysql2": "^1.6.5",
+    "pug": "^2.0.4",
     "sequelize": "^5.8.12"
   }
 }
