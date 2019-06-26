@@ -1,7 +1,38 @@
-https://expressjs.com/en/starter/generator.html
-npm install express-generator -g
-express --view=pug xpress
-##Install dependencies
+Introduction
+-------------
+NodeJs & Express.js with **Repository Design pattern** with working example
+
+Installation
+-------------
+### From this git reposity
+- Take git clone 
+```
+git clone https://github.com/vishvendrasingh/xpress.git
+```
+- Install dependencies
+```
 npm install
-##How to Run?
-DEBUG=min-api:* nodemon npm start
+```
+- Then run
+```
+DEBUG=xpress:* nodemon npm start
+```
+### Bare express 
+- Install Express generator globally
+```
+npm install express-generator -g
+```
+- Install 
+```
+express --view=pug xpress
+```
+- Install dependencies
+```
+npm install
+```
+- Then run
+```
+DEBUG=xpress:* nodemon npm start
+```
+
+ref link - [https://expressjs.com/en/starter/generator.html](https://expressjs.com/en/starter/generator.html)
