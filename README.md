@@ -1,6 +1,6 @@
 Introduction
 -------------
-NodeJs & Express.js with **Repository Design pattern** with working example
+NodeJs & Express.js with **Repository Design pattern** with working example. More clear explanation is shown in this diagram [Diagram](https://github.com/vishvendrasingh/xpress/blob/master/Architecture.pdf)
 
 Installation
 -------------
